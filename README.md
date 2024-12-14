@@ -1,13 +1,13 @@
-# 🚀 **Superstore Analytics: Unlocking Business Insights with Data**
+# 🚀 **Superstore-Analytics: Unlocking Business Insights with Data**
 
-Welcome to the **Superstore Analytics** repository! 🎉  
+Welcome to the **Superstore-Analytics** repository! 🎉  
 This project explores powerful insights derived from sales data, enabling businesses to optimize strategies, enhance customer engagement, and drive profitability through data-driven decision-making. 📊
 
 ---
 
 ## 📂 **About This Project**
 
-Superstore Analytics applies **data analysis** and **machine learning** to a retail sales dataset, uncovering trends and patterns to guide strategic decisions. The goal is to leverage data to improve **sales performance**, understand **customer behavior**, and predict future sales.
+Superstore-Analytics applies **data analysis** and **machine learning** to a retail sales dataset, uncovering trends and patterns to guide strategic decisions. The goal is to leverage data to improve **sales performance**, understand **customer behavior**, and predict future sales.
 
 ---
 
