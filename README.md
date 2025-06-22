@@ -5,6 +5,9 @@ This project explores powerful insights derived from sales data, enabling busine
 
 ---
 
+
+
+
 ## 📂 **About This Project**
 
 Superstore-Analytics applies **data analysis** and **machine learning** to a retail sales dataset, uncovering trends and patterns to guide strategic decisions. The goal is to leverage data to improve **sales performance**, understand **customer behavior**, and predict future sales.
